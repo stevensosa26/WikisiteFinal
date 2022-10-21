@@ -1,0 +1,113 @@
+#nav{
+    width:12%;
+    height:850px;
+  /*   border: 1px solid #000; */
+    float:left;
+  }
+  #nav ul{
+    margin-left: 20px;
+    list-style-type: none;
+  }
+  
+  #wiki{
+    width:140px;
+    padding-left:10px;
+  }
+  
+  #topic{
+    padding:20px;
+    width:85%;
+  /*   height:1000px; */
+    border: 1px solid turquoise;
+    float:right;
+  }
+  
+  #sidebar{
+    width:220px;
+    height:400px;
+    border:1px solid #000;
+    background-color:#eee;
+    float:right;
+    padding:15px;
+    
+  }
+  
+  #sidebar img{
+    width:100%;
+    
+  }
+  
+  #sidebar h4{
+    text-align:center;
+    background-color:limegreen;
+  }
+  
+  #sidebar p, #sidebar a{
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+  #sidebar ul{
+    text-align: center;
+    list-style-type:none;
+    
+  }
+  
+  
+  #content-box{
+    width:300px;
+    border:1px solid #000;
+    background-color:#eee;
+  }
+  
+  
+  #content-box h3{
+    text-align:center;
+  }
+  
+  ul{
+    padding: 0;
+  }
+  
+  ul a{
+    list-style:none;
+    text-decoration:none;
+    color:blue;
+  }
+  
+  ul li{
+    padding-top:4px;
+    padding-left:15px;
+  }
+  
+  ul a:hover{
+    text-decoration:underline;
+  }
+  
+  .navline{
+    width:120px;
+    margin:0;
+    margin-left:10px;
+    margin-top:10px;
+  }
+  
+  #content-box ul li{
+    list-style:lower-alpha;
+    margin-left: 20px;
+  }
+  
+  ol a{
+    text-decoration:none;
+  }
+  
+  ol a:hover{
+    text-decoration:underline;
+  }
+  
+  ol li{
+    padding: 2px;
+  }
+  
+  
+  
